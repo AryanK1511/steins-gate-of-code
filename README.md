@@ -1,1 +1,1 @@
-# steins-gate-of-code
+# Steins Gate of code
